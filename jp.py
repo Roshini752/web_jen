@@ -1,6 +1,6 @@
 a = 10
 b = 2
-c = a + b
+c = a + b + a
 print (c)
-d = c + a
+d = c + a 
 
